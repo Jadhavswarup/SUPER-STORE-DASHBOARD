@@ -47,7 +47,7 @@ This Power BI project presents a comprehensive sales analysis for a Super Store.
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](https://github.com/Jadhavswarup/SUPER-STORE-DASHBOARD/blob/main/Screenshot%20(11).png)
 
 
 
